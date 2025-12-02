@@ -1,3 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenv for backend
+/octofit-tracker/backend/venv/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.so
 .DS_Store
 
 # Virtual Environment
